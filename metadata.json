@@ -1,0 +1,8 @@
+{
+  "name": "DECORIVA - Luxury Home Decor & AI Design Consultant",
+  "description": "DECORIVA is a luxury home decor e-commerce platform with an intelligent AI Decor Chatbot, interactive product zoom galleries, live order tracking, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
